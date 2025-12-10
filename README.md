@@ -93,5 +93,13 @@ Klik tombol Run > Start Debugging
 Silakan ganti bagian ini dengan data kamu:
 
 Nama : Suheti
+
 NIM : 14022300033
+
 Kelas : 5B-INF
+---
+<img width="475" height="1004" alt="Screenshot 2025-12-10 215523" src="https://github.com/user-attachments/assets/644e7786-da37-4d53-b0e8-cdd783bbe845" />
+<img width="478" height="1006" alt="Screenshot 2025-12-10 215532" src="https://github.com/user-attachments/assets/c9886651-af4a-464e-aa13-ff0302bdadce" />
+<img width="470" height="1008" alt="Screenshot 2025-12-10 215542" src="https://github.com/user-attachments/assets/57abcbf7-8965-4b78-a45e-54a80b33051e" />
+<img width="474" height="1002" alt="Screenshot 2025-12-10 215555" src="https://github.com/user-attachments/assets/257b64f8-5ef4-416d-9454-283c67f752b0" />
+<img width="481" height="1007" alt="Screenshot 2025-12-10 215609" src="https://github.com/user-attachments/assets/7522d1ed-f76f-454e-8d7e-489d022b52b8" />
