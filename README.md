@@ -72,7 +72,6 @@ Pastikan kamu sudah menginstall:
 ### 1. Clone / buka project
 Jika sudah punya folder project, langsung buka saja di VS Code / Android Studio.
 
-```bash
 cd flutter_suheti
 
 2. Install dependency
